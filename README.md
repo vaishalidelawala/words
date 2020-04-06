@@ -1,1 +1,1 @@
-# words
+# directories
